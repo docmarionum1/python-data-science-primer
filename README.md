@@ -43,3 +43,5 @@ First up is [NumPy](http://www.numpy.org/).  NumPy, short for _Numerical Python_
 is the foundation of pretty much every mathematical python library.  It's primary
 function is doing matrix operations.  It does a lot more, but I will be focusing
 on the essentials.  
+
+The [NumPy notebook](numpy/numpy.ipynb) goes over arrays, matrices, indexing, mathematical operations and statistical operations.
