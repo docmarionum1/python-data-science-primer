@@ -12,6 +12,7 @@ Instead, I will focus on what they do, why you might use them and how to use the
 - [Usage] (#usage)
 - [Installation] (#installation)
 - [NumPy] (#numpy)
+- [Matplotlib] (#matplotlib)
 
 ## Usage
 
