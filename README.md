@@ -13,6 +13,8 @@ Instead, I will focus on what they do, why you might use them and how to use the
 - [Installation] (#installation)
 - [NumPy] (#numpy)
 - [Matplotlib] (#matplotlib)
+- [StasModels] (#statsmodels)
+- [Contributing] (#contributing)
 
 ## Usage
 
@@ -73,3 +75,8 @@ The [Regression notebook](statsmodels/regression.ipynb) inlcudes:
 * OLS Linear Regression
 * Using OLS Linear Regression to do Polynomial regression
 * Categorical Variables in OLS Linear Regression
+
+## Contributing
+
+Contributions are more than welcome - from additional functionality I skipped
+over to whole new packages I didn't include.  
