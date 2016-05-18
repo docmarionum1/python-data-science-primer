@@ -44,4 +44,22 @@ is the foundation of pretty much every mathematical python library.  It's primar
 function is doing matrix operations.  It does a lot more, but I will be focusing
 on the essentials.  
 
-The [NumPy notebook](numpy/numpy.ipynb) goes over arrays, matrices, indexing, mathematical operations and statistical operations.
+The contents of the [NumPy notebook](numpy/numpy.ipynb) are:
+* Arrays
+* Matrices
+* Array Creation Functions
+* Generating Random Arrays
+* Reshape
+* Mathematical Operations
+* Statistics
+
+## Matplotlib
+
+Matplotlib is the most commonly used python library for creating 2D-plots.  It's API interface is inspired by MATLAB.  
+
+The contents of the [Matplotlib notebook](matplotlib/matplotlib.ipynb) are:
+* Line Graphs
+* Scatter Plots
+* Combining Plots and Creating Legends
+* Histograms
+* Styling
