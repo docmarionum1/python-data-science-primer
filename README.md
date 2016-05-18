@@ -31,11 +31,11 @@ If you're on Windows, I highly recommend using [Anaconda](https://www.continuum.
 After that open a command line and run:
 
     pip install -r requirements.txt
-    
+
 Now from the root of this repository run:
 
     jupyter notebook
-    
+
 to launch Jupyter which will open a browser window where you can navigate through the files of the repo.
 
 ## NumPy
@@ -56,7 +56,7 @@ The contents of the [NumPy notebook](numpy/numpy.ipynb) are:
 
 ## Matplotlib
 
-Matplotlib is the most commonly used python library for creating 2D-plots.  It's API interface is inspired by MATLAB.  
+[Matplotlib](http://matplotlib.org/) is the most commonly used python library for creating 2D-plots.  It's API interface is inspired by MATLAB.  
 
 The contents of the [Matplotlib notebook](matplotlib/matplotlib.ipynb) are:
 * Line Graphs
@@ -64,3 +64,12 @@ The contents of the [Matplotlib notebook](matplotlib/matplotlib.ipynb) are:
 * Combining Plots and Creating Legends
 * Histograms
 * Styling
+
+## StatsModels
+
+[StatsModels](http://statsmodels.sourceforge.net/stable/index.html) is a library for running statistical models.
+
+The [Regression notebook](statsmodels/regression.ipynb) inlcudes:
+* OLS Linear Regression
+* Using OLS Linear Regression to do Polynomial regression
+* Categorical Variables in OLS Linear Regression
