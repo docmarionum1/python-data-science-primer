@@ -13,6 +13,7 @@ Instead, I will focus on what they do, why you might use them and how to use the
 - [Installation] (#installation)
 - [NumPy] (#numpy)
 - [Matplotlib] (#matplotlib)
+- [Pandas] (#pandas)
 - [StasModels] (#statsmodels)
 - [Contributing] (#contributing)
 
@@ -66,6 +67,16 @@ The contents of the [Matplotlib notebook](matplotlib/matplotlib.ipynb) are:
 * Combining Plots and Creating Legends
 * Histograms
 * Styling
+
+## Pandas
+
+[Pandas](http://pandas.pydata.org/) is a library which provides data structures for doing data analysis.  It is similar to having access to an Excel spreadsheet in python.
+
+The contents of the [Pandas notebook](pandas/pandas.ipynb) are:
+* DataFrames
+* Operations and Filtering
+* Merging DataFrames
+* Grouping Rows by Value
 
 ## StatsModels
 
