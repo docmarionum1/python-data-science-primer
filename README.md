@@ -15,6 +15,7 @@ Instead, I will focus on what they do, why you might use them and how to use the
 - [Matplotlib] (#matplotlib)
 - [Pandas] (#pandas)
 - [StasModels] (#statsmodels)
+- [scikit-learn] (#scikit-learn)
 - [Contributing] (#contributing)
 
 ## Usage
@@ -82,10 +83,23 @@ The contents of the [Pandas notebook](pandas/pandas.ipynb) are:
 
 [StatsModels](http://statsmodels.sourceforge.net/stable/index.html) is a library for running statistical models.
 
-The [Regression notebook](statsmodels/regression.ipynb) inlcudes:
+The [Regression notebook](statsmodels/regression.ipynb) includes:
 * OLS Linear Regression
 * Using OLS Linear Regression to do Polynomial regression
 * Categorical Variables in OLS Linear Regression
+
+## scikit-learn
+
+[scikit-learn](http://scikit-learn.org/stable/) is a python library for machine
+learning.  
+
+The [classification notebook](scikitlearn/classification.ipynb) includes:
+* Naive Bayes
+* K-Nearest Neighbors
+* Support Vector Machines
+* Decision Trees
+* Random Forest
+* Evaluating Model Results
 
 ## Contributing
 
