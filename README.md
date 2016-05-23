@@ -101,6 +101,10 @@ The [classification notebook](scikitlearn/classification.ipynb) includes:
 * Random Forest
 * Evaluating Model Results
 
+The [dimensionality reduction notebook](scikitlearn/dimensionalityreduction.ipynb) includes:
+* Principal Component Analysis (PCA)
+* PCA + Classification
+
 ## Contributing
 
 Contributions are more than welcome - from additional functionality I skipped
