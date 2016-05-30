@@ -14,7 +14,7 @@ Instead, I will focus on what they do, why you might use them and how to use the
 - [NumPy](#numpy)
 - [Matplotlib](#matplotlib)
 - [Pandas](#pandas)
-- [StasModels](#statsmodels)
+- [StatsModels](#statsmodels)
 - [scikit-learn](#scikit-learn)
 - [PyBrain](#pybrain)
 - [Contributing](#contributing)
