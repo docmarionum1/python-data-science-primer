@@ -3,3 +3,4 @@ matplotlib
 statsmodels
 pandas
 scikit-learn
+git+git://github.com/pybrain/pybrain.git
