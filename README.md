@@ -9,14 +9,15 @@ Instead, I will focus on what they do, why you might use them and how to use the
 
 ## Table of Contents
 
-- [Usage] (#usage)
-- [Installation] (#installation)
-- [NumPy] (#numpy)
-- [Matplotlib] (#matplotlib)
-- [Pandas] (#pandas)
-- [StasModels] (#statsmodels)
-- [scikit-learn] (#scikit-learn)
-- [Contributing] (#contributing)
+- [Usage](#usage)
+- [Installation](#installation)
+- [NumPy](#numpy)
+- [Matplotlib](#matplotlib)
+- [Pandas](#pandas)
+- [StasModels](#statsmodels)
+- [scikit-learn](#scikit-learn)
+- [PyBrain](#pybrain)
+- [Contributing](#contributing)
 
 ## Usage
 
@@ -104,6 +105,15 @@ The [classification notebook](scikitlearn/classification.ipynb) includes:
 The [dimensionality reduction notebook](scikitlearn/dimensionalityreduction.ipynb) includes:
 * Principal Component Analysis (PCA)
 * PCA + Classification
+
+## PyBrain
+
+[PyBrain](http://pybrain.org/) is another machine learning library.  It has some
+overlap with scikit-learn, but its major focus is on neural networks.
+
+The [PyBrain neural network notebook](pybrain/neuralnetworks.ipynb) includes:
+* Function Approximation
+* Classification
 
 ## Contributing
 
