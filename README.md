@@ -18,6 +18,7 @@ Instead, I will focus on what they do, why you might use them and how to use the
 - [scikit-learn](#scikit-learn)
 - [PyBrain](#pybrain)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Usage
 
@@ -119,3 +120,7 @@ The [PyBrain neural network notebook](pybrain/neuralnetworks.ipynb) includes:
 
 Contributions are more than welcome - from additional functionality I skipped
 over to whole new packages I didn't include.  [Here's](https://github.com/docmarionum1/python-data-science-primer/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement) a list of things I've already identified that I'd like to add.
+
+## License
+
+Code released under the [MIT license](LICENSE).
