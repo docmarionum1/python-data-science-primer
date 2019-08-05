@@ -1,6 +1,7 @@
-numpy
+numpy==1.16.4
 matplotlib
 statsmodels
 pandas
 scikit-learn
 git+git://github.com/pybrain/pybrain.git
+tensorflow==2.0.0-beta1
